@@ -124,7 +124,7 @@ It’s not recommended when:
 - We don’t consistently filter or group by the same columns
 - We already get good performance from partitioning alone
 
-Answe:False
+Answer:False
 ---
 
 ## Question 9: Understanding table scans
